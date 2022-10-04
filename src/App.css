@@ -4,3 +4,7 @@
   display: flex;
   align-items: center;
 }
+.ul{
+  margin-left: 0;
+  padding: 0.2rem;
+}
