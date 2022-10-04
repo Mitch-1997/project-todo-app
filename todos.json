@@ -3,17 +3,19 @@
     {
       "id": 1,
       "task": "work on the project",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "complete": "false "
+    },
+  
+  {
+      "id": 2,
+      "task": "complete this weeks' labs",
+      "complete": "false "
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "task": "do exercise",
+      "complete": "false "
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
+  
